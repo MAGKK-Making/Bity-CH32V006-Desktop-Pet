@@ -11,8 +11,12 @@
 - 固件开发与维护：MAGKK
 - 素材绘制：MAGKK
 
+- 实物图
 ![Bity实物图1](./assets/pic_1.jpg)
 ![Bity实物图2](./assets/pic_2.jpg)
+
+- 部分动画预览
+![Bity动画1](./assets/ani_1.gif)
 
 ## 项目编译与下载
 
