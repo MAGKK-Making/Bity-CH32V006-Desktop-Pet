@@ -42,6 +42,10 @@
 - 本项目PCB由嘉立创制造
 - 制板文件详见[Gerber文件](./Hardware/Gerber_PCB_DesktopPet_ReleaseVersion.zip)
 
+## PCB焊接
+- 本项目使用立创EDA提供的离线焊接辅助工具辅助焊接。
+- [焊接辅助工具](./[焊接辅助工具]PCB_DesktopPet.html)
+
 ## 关于项目复刻与开发
 
 如果您想复刻或开发本项目，第一次创建工程可以根据以下步骤：
