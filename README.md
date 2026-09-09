@@ -50,7 +50,7 @@
 
 ## PCB焊接
 - 本项目使用立创EDA提供的离线焊接辅助工具辅助焊接。
-- [焊接辅助工具](./Hardware/[焊接辅助工具]PCB_DesktopPet.html)
+- [焊接辅助工具](./Hardware/[焊接辅助工具]PCB_DesktopPet.zip)
 
 ## 关于项目复刻与开发
 
