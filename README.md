@@ -11,6 +11,7 @@
 - 固件开发与维护：MAGKK
 - 素材绘制：MAGKK
 
+## 实物展示
 实物图
 
 ![Bity实物图1](./assets/pic_1.jpg)
